@@ -1,8 +1,6 @@
-# uas
-pandas
-numpy
-seaborn
-matplotlib
-scikit-learn
-pickle-mixin
+streamlit
 catboost
+scikit-learn
+numpy
+pandas
+matplotlib
